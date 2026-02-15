@@ -47,6 +47,33 @@ The module is designed to automatically analyze test results and provide meaning
 
 ---
 
+## 🚀 Highlighted Projects
+
+### 📊 Discrete Simulation Models  
+Monte Carlo and event-driven simulation systems implemented in **Java** with **Swing GUI**.  
+Includes custom simulation cores, random distribution generators, statistical evaluation (confidence intervals, Chi-Square testing), and experimental analysis.
+
+### 🌳 Algorithms & Data Structures  
+Implementation of advanced data structures including:
+
+- K-D Tree (multidimensional spatial indexing)
+- HeapFile (file-based storage simulation)
+- Extendible Hashing (HashFile)
+
+Projects were developed in **Python** and applied within practical information systems.
+
+### 🧠 Diploma Thesis – Analytics Module *(Repository coming soon)*  
+Full-stack analytics module developed as part of my Master's thesis using:
+
+- Java (Spring Boot)
+- Angular
+- PostgreSQL
+- Hibernate
+
+The repository will be published upon completion.
+
+---
+
 ## 🏋️ Outside of Tech
 
 - Martial arts and regular gym training
